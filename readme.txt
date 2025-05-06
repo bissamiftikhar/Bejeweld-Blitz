@@ -1,34 +1,19 @@
-  
-   ------------------------------------
-   .ttf          http://ttf.eosnet.com/
-   ------------------------------------ 
+🎮 Bejeweled Blitz Clone – C++ & SFML
+📌 Overview
+A clone of the classic Bejeweled Blitz game built in C++ using SFML for graphics. It features tile swapping, matching, scoring, and time-based gameplay — demonstrating solid command over Programming Fundamentals and object-oriented design.
 
-   The attached font is an original font
-   by .ttf, and is freeware.
+🛠️ Features
+Interactive grid with colorful gems
 
-   Please feel free to distribute this
-   font, but keep this readme file with
-   it and do not change the font in any
-   way.
+Tile swapping and match detection
 
-   ------------------------------------
-   How to install the font
-   ------------------------------------
-  
-1  Extract the enclosed font to any
-   temporary folder. You can now close
-   your unzipping program.
+Scoring system
 
-2  Go to the Fonts section of Control
-   Panel (Start > Settings > Control
-   Panel > Fonts) and choose File >
-   Install New Font. In the window that
-   comes up, find the font you
-   temporarily unzipped. Select it and
-   click OK. The font is now installed,
-   and can be used with all Windows
-   applications.
+Timer-based gameplay
 
-   ------------------------------------
-   .ttf         Copyright (c) 1998-1999
-   ------------------------------------
+Smooth animations using SFML
+
+🔧 Technologies Used
+C++
+
+SFML (Simple and Fast Multimedia Library)
